@@ -1,0 +1,23 @@
+{
+  "name": "-linked-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "Node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fawzi-shiyyab19/-linked-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fawzi-shiyyab19/-linked-list/issues"
+  },
+  "homepage": "https://github.com/fawzi-shiyyab19/-linked-list#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
